@@ -80,3 +80,6 @@ Open the app, tap the ⚙ icon, paste your Worker URL from step 1, hit **Save & 
 - **Change what gets filtered out / kept:** edit `EXCLUDE_PATTERNS` / `INCLUDE_PATTERNS` in `worker/src/index.ts`
 - **Change the summarization style:** edit `worker/src/prompt.ts`
 - **Change the refresh time:** edit the cron schedule in `wrangler.toml`
+
+
+# Made by Nick ;)
