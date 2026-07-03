@@ -1,4 +1,4 @@
-# Notizie
+# NEWS BRIEF
 
 A personal daily news brief. A Cloudflare Worker reads ~15 RSS feeds every morning, an AI picks the 6 stories that actually matter and writes short, neutral summaries, and an Android app shows them to you in a clean feed — no doom-scrolling, no algorithm, no ads.
 
