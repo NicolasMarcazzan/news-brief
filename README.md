@@ -2,7 +2,7 @@
 
 A personal daily news brief. A Cloudflare Worker reads ~15 RSS feeds every morning, an AI picks the 6 stories that actually matter and writes short, neutral summaries, and an Android app shows them to you in a clean feed — no doom-scrolling, no algorithm, no ads.
 
-## Why this is good
+## Why this is fire
 
 - **Fast to read.** 6 stories, 2–3 sentences each. Under 5 minutes, once a day.
 - **Neutral by design.** The AI is prompted to stay factual and skip routine crime/tragedy clickbait, keeping only stories with real global/systemic weight (policy, trade, elections, climate, conflict that shifts borders or alliances, etc).
