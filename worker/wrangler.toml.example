@@ -1,0 +1,11 @@
+name = "notizie-brief"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[triggers]
+crons = ["0 7 * * *"]
+
+[[kv_namespaces]]
+binding = "BRIEF_KV"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+preview_id = ""
